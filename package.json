@@ -1,0 +1,22 @@
+{
+  "name": "kanak-001-package",
+  "version": "1.0.0",
+  "description": "kanak-001-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "kan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenKanak/kanak-001-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "naveen.kanak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenKanak/kanak-001-package/issues"
+  },
+  "homepage": "https://github.com/NaveenKanak/kanak-001-package#readme"
+}
