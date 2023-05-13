@@ -1,6 +1,6 @@
 {
   "name": "kanak-custom-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kanak-001-package",
   "main": "index.js",
   "scripts": {
