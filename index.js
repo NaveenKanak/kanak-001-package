@@ -2,4 +2,8 @@ function isWds(string){
     return string === "WDS"
 }
 
-module.exports = isWds;
+function add(a, b){
+    return a+b;
+}
+
+module.exports = isWds, add;
